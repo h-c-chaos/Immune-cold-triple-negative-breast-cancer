@@ -269,7 +269,7 @@ The repository includes both the initial regulon-based exploration and the compo
 
 | Module | Purpose | Manuscript link |
 |---|---|---|
-| `bulk_validation.py` | Self-contained entry point. Scores METABRIC/TCGA basal-like samples by a Barrier-Silencing index and assesses AUC, leave-one-out CV and Cox survival. The bulk Barrier component uses an extended ECM signature (see Supplementary Table S1). | Bulk recoverability and survival |
+| `bulk_validation.py` | Self-contained entry point. Scores METABRIC/TCGA basal-like samples by a Barrier-Silencing index and assesses AUC, leave-one-out CV and Cox survival. | Bulk recoverability and survival |
 
 ### Post-hoc fixes (`src/fixes/`)
 
